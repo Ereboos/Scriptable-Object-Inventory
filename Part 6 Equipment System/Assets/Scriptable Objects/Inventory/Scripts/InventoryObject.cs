@@ -10,7 +10,6 @@ using System.Runtime.Serialization;
 public class InventoryObject : ScriptableObject
 {
     public string savePath;
-    public ItemDatabaseObject database;
     public Inventory Container;
 
 
